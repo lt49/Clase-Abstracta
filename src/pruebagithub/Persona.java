@@ -13,5 +13,7 @@ public class Persona {
     
     int edad;
     String nombre;
+    String apellido_materno;
+    String apellido_paterno;
     
 }
