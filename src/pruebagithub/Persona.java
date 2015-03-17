@@ -15,5 +15,6 @@ public class Persona {
     String apellidoMaterno;
     String apellidoPaterno;
     int dni;
+    int edad;
     
 }
