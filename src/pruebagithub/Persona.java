@@ -11,4 +11,11 @@ package pruebagithub;
  */
 public class Persona {
     
+    String nombre;
+    String apellidoMaterno;
+    String apellidoPaterno;
+    int dni;
+    int edad;
+    String direccion;
+    
 }
