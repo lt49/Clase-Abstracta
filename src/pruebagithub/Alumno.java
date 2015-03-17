@@ -14,5 +14,6 @@ public class Alumno {
     int codigoUniv;
     String escuelaAcademica;
     String facultad;
+    String  salon;
     
 }
