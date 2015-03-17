@@ -17,5 +17,6 @@ public class Persona {
     int dni;
     int edad;
     String direccion;
+    String email;
     
 }
