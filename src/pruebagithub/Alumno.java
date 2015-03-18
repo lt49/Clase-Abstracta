@@ -11,6 +11,6 @@ package pruebagithub;
  */
 public class Alumno {
     
-    
+    int codigoUniv;
     
 }
